@@ -151,7 +151,7 @@ input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
 		font-weight: 300;
 		font-size: 1rem;
-		line-height: 2.375;
+		line-height: 2;
 	}
 
 	a {
@@ -186,7 +186,7 @@ input, select, textarea {
 		line-height: 1.5;
 		letter-spacing: 0.075em;
 		text-transform: uppercase;
-		margin: 0 0 1rem 0;
+		margin: -1.75rem 0 1rem 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -283,6 +283,7 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	
 	.align-right {
 		text-align: right;
 	}
@@ -3851,7 +3852,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				padding: 4rem;
+				padding: 2rem;
 				width: 50%;
 			}
 
